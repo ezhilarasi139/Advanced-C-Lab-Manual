@@ -59,7 +59,25 @@ int main() {
 
 ## Output:
 
-//paste your output here
+``
+Enter number of people: 2
+
+Enter name of person 1: Alice
+Enter age of Alice: 5
+
+Enter name of person 2: Bob
+Enter age of Bob: 10
+
+--- Vaccine Eligibility Results ---
+
+Name: Alice
+Age: 5
+Vaccine Eligibility: No
+
+Name: Bob
+Age: 10
+Vaccine Eligibility: Yes
+```
 
 
 ## Result:
@@ -123,8 +141,13 @@ int main() {
 
 ## Output:
 
+```
 
-//paste your output here
+Enter two numbers:
+a: 15
+b: 25
+Sum = 40
+```
 
 
 
@@ -190,9 +213,12 @@ int main() {
 
 ## Output:
 
-
-//paste your output here
-
+```
+Enter the file name: example.txt
+File 'example.txt' has been created successfully.
+File 'example.txt' has been opened successfully.
+File 'example.txt' has been closed.
+```
 
 
 
@@ -275,8 +301,16 @@ int main() {
 ## Output:
 
 
-//paste your output here
-
+```
+Enter the file name: notes.txt
+Enter the number of strings: 3
+File 'notes.txt' has been opened successfully.
+Enter 3 string(s):
+String 1: Hello, this is the first line.
+String 2: This is the second line.
+String 3: End of the file.
+Data has been added successfully.
+```
 
 
 
@@ -369,8 +403,18 @@ int main() {
 
 ## Output:
 
+```
+Enter the number of subjects: 2
+Enter the name and marks for each subject:
+Subject 1 Name: Mathematics
+Subject 1 Marks: 95
+Subject 2 Name: Science
+Subject 2 Marks: 88
 
-//paste your output here
+Subject Details:
+Subject 1: Name = Mathematics, Marks = 95
+Subject 2: Name = Science, Marks = 88
+```
 
 
 
