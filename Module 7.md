@@ -59,7 +59,7 @@ int main() {
 
 ## Output:
 
-``
+```
 Enter number of people: 2
 
 Enter name of person 1: Alice
