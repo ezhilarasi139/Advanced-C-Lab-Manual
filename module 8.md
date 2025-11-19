@@ -68,16 +68,17 @@ int main() {
 
 
 ## Output:
+```
+Enter a number: 5
+seventy one
+```
 
 
-//paste your output here
 
 
 
 
-
-
-Result:
+## Result:
 Thus, the program is verified successfully
  
 # EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
@@ -124,11 +125,12 @@ int main() {
 
 
 
-
 ## Output:
 
-
-//paste your output here
+```
+Enter a string of digits: 012301233210
+3 3 3 3 0 0 0 0 0 0
+```
 
 
 
@@ -227,7 +229,16 @@ int main() {
 ## Output:
 
 
-
+```
+Enter a string: abc
+Lexicographical permutations:
+abc
+acb
+bac
+bca
+cab
+cba
+```
 
 
 
@@ -283,8 +294,13 @@ int main() {
 
 ## Output:
 
-
-//paste your output here
+```
+3 3 3 3 3
+3 2 2 2 3
+3 2 1 2 3
+3 2 2 2 3
+3 3 3 3 3
+```
 
 
 
@@ -344,9 +360,10 @@ int main() {
 
 ## Output:
 
-
-//paste your output here
-
+```
+Enter a number: 5
+Square of the number is: 25
+```
 
 
 
